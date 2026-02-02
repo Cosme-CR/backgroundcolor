@@ -12,8 +12,11 @@ function trocarCor(){
         cor = "black"
     } else {
         if (cor == "azul") {
-            cor = "blue"
-            
+            cor = "blue"   
+        }if(cor== "vermelho"){
+            cor = "red"
+        }if(cor == "verde"){
+            cor = "gren"
         }
         
     }
