@@ -13,11 +13,6 @@ function trocarCor(){
     const cor = document.getElementById("colorido").value 
 
 
-    if(cor =="azul"){
-        cor = "black"
-    }
-
-
 
 
 
